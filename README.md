@@ -2,7 +2,10 @@ New ReadME File
 
 Some Text
 
-![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/Jimbo8927/sem/main.yml?branch=master)
+Master Build Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/Jimbo8927/sem/main.yml?branch=master)
+
+# Software Engineering Methods
+Develop Build Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/Jimbo2789/sem/main.yml?branch=develop)
 
 [![LICENSE](https://img.shields.io/github/license/Jimbo8927/sem.svg?style=flat-square)](https://github.com/Jimbo8927/sem/blob/master/LICENSE)
 
