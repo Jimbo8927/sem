@@ -2,6 +2,12 @@ package com.napier.sem;
 
 import java.sql.*;
 
+/* * command to update database
+git submodule add https://github.com/datacharmer/test_db db/test_db
+git submodule init
+git submodule update
+ */
+
 
 public class App
 {
